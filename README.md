@@ -1,16 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18923065&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
-## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-## 9. How can clearly defining the problem help in developing a more effective software solution?
-## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-## 11. What are the main features or functionalities that make your software stand out?
-## 12. What data is available regarding the market size and growth potential for your software?
-## 13. How can understanding market trends inform your software’s positioning and development?
+## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met? Timely delivery is crucial for customer                  satisfaction and overall project success and project managers can meet the deadlines by communication,monitoring their strategies among others.                                       
+## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns? Effective cost control in a project        is needed for it optimizes resource allocation and mitigates financial risks.Ways of preventing budget overruns include proactive risk management and enabling accurate            emissions.
+## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each? Agile focuses on customer feedback and adaptability due to           its flexible approach while Waterfall is a structured method and succeeds in projects with clear and concise requirements.Main advantages of Agile and Waterfall are reduced risks and ease of management respectively.Main disadvantages of Agile and Waterfall are potential for scope creep and lack of flexibility respectively.      
+ ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each? Agile can be used in projects with                     significant complexity and novelty while Waterfall is used in projects with well-defined requirements and little to no changes expected.
+## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards? These methods include rigorous               testing,continuous integration and stong quality management plan.Keeping high standards is crucial so as to launch a well-rounded software project.
+## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful? Defining scope creep is           crucial because it provides project clarity,scheduling and risk management.A Work Breakdown Structure is a visual tool that breaks down the entire project for easier           planning and organization and track progress.
+## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process? Benefits of a project schedule are establishing                expectations and setting deadlines for each task involved.Gantt charts could assist in this throughboosting productivity and motivating team members. 
+## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience? Issues include not understanding the interface          and lack of wide availability.Thhey are significant because they may influence the performance of the software.
+## 9. How can clearly defining the problem help in developing a more effective software solution? By shedding light into a problem,you can come up with ways on how to combat          it which ultimately makes one to develop a more streamlined software product.
+## 10. How would you describe your software solution in a way that captures its essence without diving into technical details? I would give an overview of the problem and then         provide the solution.
+## 11. What are the main features or functionalities that make your software stand out?  Ease of use and simplified descriptions.
+## 12. What data is available regarding the market size and growth potential for your software? Number of people online.
+## 13. How can understanding market trends inform your software’s positioning and development? It can help get rid of any loss or disturbance and change mode of operation.
